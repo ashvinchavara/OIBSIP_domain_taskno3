@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="black" format="color" />
+    <attr name="white" format="color" />
+    <attr name="darkblue" format="color" />
+    <attr name="blue" format="color" />
+    <attr name="ivory" format="color" />
+    <attr name="stand" format="color" />
+    <attr name="dis" format="color" />
+    <attr name = "calc" format="color"/>
+
+</resources>

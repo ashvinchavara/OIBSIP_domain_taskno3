@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FFFFFF</color>
+    <color name="white">#000000</color>
+    <color name="darkblue">#1B005B</color>
+    <color name="blue">#2E3668</color>
+    <color name="ivory">#232323</color>
+    <color name="light_ivory">#959595</color>
+    <color name="red">#FF0000</color>
+    <color name="invisible">#00FFFFFF</color>
+    <color name="stand">#214E4E4E</color>
+    <color name="dis">#151533</color>
+    <color name="calc">#1D1D1D</color>
+</resources>
